@@ -1,4 +1,4 @@
-# envio_de_emails
+# Envio de E-mails
 Envio automático de e-mails
 
-Projeto de envio de e-mails usando o python
+Projeto de envio de e-mails usando uma conta g-mail e python.
